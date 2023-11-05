@@ -1,0 +1,45 @@
+header em {
+    color: skyblue;
+}
+.heading
+{
+    color: skyblue;
+    margin-bottom: 30px;
+}
+
+p, li{
+    color: aliceblue;
+}
+
+
+body {
+    background-color: rgb(65, 77, 89);
+}
+
+.mood {
+    display: flex;
+}
+.mood img{
+    border-radius: 5%;
+    border: solid 4px skyblue;
+    margin-right: 10px;
+}
+
+.mood p {
+    color: skyblue;
+    font-weight: 800;
+    margin-right: 10px;
+    
+}
+
+.links a {
+    background-color:skyblue;
+    text-decoration: none;
+    padding: 3px 15px 3px 15px;
+    border-radius: 30px;
+    font-size: 16px;
+    color: rgb(40, 64, 73);
+}
+hr{
+    opacity: 0.5;
+}
